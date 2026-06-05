@@ -10,7 +10,7 @@ const Login = () => {
                 <SignedOut>
                     <SignInButton mode="modal">
                         <button className="btn login-btn">
-                            <span className="login-btn-icon"></span> Login
+                            <span className="login-btn-icon"></span> login button
                         </button>
                     </SignInButton>
                 </SignedOut>
